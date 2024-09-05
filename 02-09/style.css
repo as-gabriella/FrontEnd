@@ -1,0 +1,26 @@
+h1 {
+   color: rgb(255, 114, 185); /* tudo que tiver a etiqueta (tag) vai ter esta cor*/
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /*troca a fonte para a que eu escolhi */
+}
+
+button {
+color:rgb(255, 92, 179) 
+background-color:azure
+
+}
+
+body { background-color: rgb(255, 211, 239); 
+
+
+}
+
+img {
+ width: 200px ; 
+ heigth: auto; 200px; 
+
+}
+
+a{ color: azure;
+
+}
+ 
